@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0">
+    <defs>
+        <clipPath id="front">
+            <path fill="black" d="M360,392H0V202.62s72.33,66.59,184.13,66.22C291.49,268.49,360,202.62,360,202.62Z" transform="translate(0 -202.62)"/>
+        </clipPath>
+    </defs>
+</svg>
